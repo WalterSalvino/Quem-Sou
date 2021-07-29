@@ -1,0 +1,16 @@
+/*Atoms*/
+@import "../atoms/photo.css";
+@import "../atoms/item-links.css"
+
+/*molecules*/
+@import "../molecules/navegation-links.css";
+
+/*Pages*/
+@import "../pages/grid.css";
+
+/*Organisms*/
+@import "../organisms/nav.css";
+@import "../organisms/main.css";
+@import "../organisms/aside.css";
+@import "../organisms/footer.css";
+
